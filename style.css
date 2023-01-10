@@ -1,0 +1,122 @@
+
+.navbar{
+    background-color:#E19F90 ;
+}
+.option{
+    padding-left: 40px;
+    
+}
+.logo{
+    padding: 10px;
+}
+.background{
+    background-color:#A5C0C4 ;
+    padding-top: 50px;
+    padding-bottom: 5%;
+
+}
+
+.first_card{
+    padding: 5% 0 5% 0;
+}
+.subheading1{
+    text-align: center!important;
+}
+
+.second_card {
+    background-color: #E19F90;
+    border-radius: 0.5%;
+    margin-bottom: 5%;
+    padding-bottom: 2%;
+}
+.row{
+    padding: 3% 0 0 3%;
+    
+}
+.volunteer1{
+    padding-left: 1%;
+  }
+  
+
+.volunteer2{
+  padding-left: 34.2%;
+}
+.volunteer3{
+    padding-left: 34.2%;
+  }
+  .volunteer4{
+    padding-left: 34.2%;
+  }
+    
+.content2{
+    margin-left: -12.5%;
+}
+.content_no{
+    margin-left : 33.2%;
+}
+.content_other{
+    margin-left : 33.2%;  
+}
+
+
+
+
+
+
+
+
+.backgroundsize{
+    background-color:#4C8D82 ;
+    padding: 1%;
+
+
+}
+
+.textsetting{
+    
+    width: 50%;
+    text-align: center;
+    margin-left: 25%;
+    font-weight: 400;
+}
+
+.emailfield{
+    max-width: 50%;
+ margin-left: 25%;
+ border-color: black;
+ border-width: 1px;
+
+}
+   
+.colorsetting{
+    background-color:#D19654 ;
+    border-color: #D19652;
+    margin-left: 45%;
+    margin-top: 30%;
+
+}
+
+.custom_button{
+    background-color: #4C8D82;
+    width: 10%;
+    color: white;
+    margin:4% 0 0 45%;
+    
+}
+
+
+@media (max-width: 767.98px) and (min-width: 576px) {
+ .logo{
+    width: 20%;
+    
+ }
+ .custom_button{
+    width: 30%;
+    margin-left: 35%;
+ }
+
+ .content2{
+    margin-left: 1%;
+ }
+
+}
